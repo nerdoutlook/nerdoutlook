@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent
 - 👀 I’m interested in the applications of machine learning in business, security of personal and organizational information and 
 - 🌱 I’m currently learning the nuances of Software Engineering.
-- 💞️ I’m looking to collaborate on ......
+<!--- /*- 💞️ I’m looking to collaborate on ...... --->
 - 📫 Reach me on twitter @Conquerin_
 
 <!---
