@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Vincent
 - 👀 I’m interested in the applications of machine learning in business, security of personal and organizational information and 
 - 🌱 I’m currently learning the nuances of Software Engineering.
+- What do Spanish programmers code in? Sí ++ 😎
 <!--- /*- 💞️ I’m looking to collaborate on ...... --->
 
 <!---
